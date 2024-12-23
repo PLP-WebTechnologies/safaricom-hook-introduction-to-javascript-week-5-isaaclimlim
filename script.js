@@ -24,7 +24,7 @@ if (haveID === true) {
 console.log(myInfo)
 
 /* 2. Operators */
-/* 
+
 const num1 = Number(prompt('Enter the first number: '));
 const num2 = Number(prompt('Enter the second number: '));
 const operator = prompt('Enter the operator (+, -, *, /): ');
@@ -55,7 +55,7 @@ if (operator === '+') {
     const result = num1 / num2;
     console.log(`Result: ${result}`);
 }
-*/
+
 
 /* 3. Functions */
 const greetings = document.querySelector('h4');
